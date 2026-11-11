@@ -10,4 +10,4 @@ A simple web application to manage student details.
 
 ## Features
 - Add student details
-- Display student Notebooks
+Display student Records with code
